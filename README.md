@@ -26,4 +26,8 @@ Atharva Dhore
 
 ## Preview
 
+![Dashboard](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/addtransaction.png)
+![Dashboard](screenshots/history.png)
+![Dashboard](screenshots/setting.png)
